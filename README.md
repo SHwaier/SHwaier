@@ -1,4 +1,4 @@
-## Saymon Hwair, aka Unknown159
+## Saymon Hwaier, aka Unknown159
 - 🔭 I’m currently working on my portfolio
 - 🌱 I’m currently learning Tailwind CSS
 - 👯 I’m would love to collaborate with others that enjoy creating unforgettable experiences through lines of code
