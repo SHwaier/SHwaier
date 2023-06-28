@@ -6,7 +6,6 @@
 - ⚡ Fun fact: I love visiting coffee shops all over the city
 
 ## My Fabulous GitHub Stats
-<div style="display:flex;">
 <a href="#">
 <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=shwaier&theme=radical&include_all_commits=true&count_private=true\&rank_icon=github"/>
   <a/>
@@ -16,4 +15,4 @@
 <a href="">
 <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwaier&theme=radical&include_all_commits=true&count_private=true&hide_progress=true&layout=donut-vertical"/>
 <a/>
-<div/>
+
