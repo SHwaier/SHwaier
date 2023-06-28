@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-![](https://github-readme-stats.vercel.app/api?username=shwaier&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=shwaier&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shwaier&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=shwaier&theme=radical&hide_border=false&include_all_commits=true&count_private=true\&rank_icon=github)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=shwaier&theme=radical&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shwaier&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
