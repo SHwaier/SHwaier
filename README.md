@@ -7,11 +7,11 @@
   
 ## My Fabulous GitHub Stats
 <a href="#">
-<img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=shwaier&theme=radical&include_all_commits=true&count_private=true\&rank_icon=github"/>
+<img height=160  src="https://github-readme-stats.vercel.app/api?username=shwaier&theme=radical&rank_icon=github"/>
   <a/>
 <a href="#">
-<img height=160 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shwaier&theme=radical"/>
+<img height=160  src="https://github-readme-streak-stats.herokuapp.com/?user=shwaier&theme=radical"/>
 <a/>
-<a href="#">
-<img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwaier&theme=radical&include_all_commits=true&count_private=true&hide_progress=true&layout=donut-vertical"/>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=shwaier&theme=radical&include_all_commits=true&count_private=true&hide_progress=true&layout=donut-vertical">
+<img   src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwaier&theme=radical&layout=donut-vertical"/>
 <a/>
