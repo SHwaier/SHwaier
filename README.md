@@ -12,6 +12,3 @@
 <a href="#">
 <img height=160  src="https://github-readme-streak-stats.herokuapp.com/?user=shwaier&theme=radical"/>
 <a/>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=shwaier&theme=radical&include_all_commits=true&count_private=true&hide_progress=true&layout=donut-vertical">
-<img   src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwaier&theme=radical&layout=donut-vertical"/>
-<a/>
