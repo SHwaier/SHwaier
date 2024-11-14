@@ -9,6 +9,4 @@
 <a href="#">
 <img height=160  src="https://github-readme-stats.vercel.app/api?username=shwaier&theme=radical&rank_icon=github"/>
   <a/>
-<a href="#">
-<img height=160  src="https://github-readme-streak-stats.herokuapp.com/?user=shwaier&theme=radical"/>
-<a/>
+
